@@ -1,7 +1,9 @@
 # MARCELO FIORI
 
-
-
+RG: XX.XXX.XXX-XX
+---
+CPF: XXX.XXX.XXX/XX
+---
 
 
 ---
